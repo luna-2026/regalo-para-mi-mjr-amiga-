@@ -11,7 +11,7 @@ st.title("🌸 Para mi mejor amiga 🌸")
 # Reproductor de música con autoplay (YouTube embed con autoplay activado)
 st.markdown("""
 <iframe width="0" height="0" src="https://www.youtube.com/watch?v=1ZOcGs0Ift8&list=RD1ZOcGs0Ift8&start_radio=1&ab_channel=%F0%9D%98%8E%C3%B8%F0%9D%98%A5%F0%9D%98%97%F0%9D%98%A9%F0%9D%98%A2%F0%9D%98%AF%F0%9D%98%B5%C3%B8%F0%9D%98%AE" 
-frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+frameborder="0" allow="comand; encrypted-media" allowfullscreen></iframe>
 """, unsafe_allow_html=True)
 
 # Carta personalizada
